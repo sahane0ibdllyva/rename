@@ -1,0 +1,3 @@
+Renaming directories using mv command
+Basically, the mv command is used to move files, but we can also rename the folders and directories by it. We can simply rename the folders by executing the mv command, followed by the old folder name and new folder name, respectively.
+
